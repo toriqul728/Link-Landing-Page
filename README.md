@@ -2,7 +2,7 @@
 
 A minimal, mobile-first landing page for creators, influencers, or anyone needing a clean "link in bio" setup.
 
-![Website Screenshot](screenshot.png)
+![Website Screenshot](Screenshot.png)
 
 ---
 
